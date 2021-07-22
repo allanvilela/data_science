@@ -6,9 +6,11 @@
 # Allan Vilela
 <sub>*Engº de Produção e de Qualidade, Consultor de BI e futuro Cientista de Dados</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Engenheiro com 11 anos de experiência na Indústria Automotiva e na Qualidade. Entusiasta de Tecnologia de Informação e Storytelling com Dados, sempre aplicou na Indústria conceitos e ferramentas de Análises de Dados, Lean Manufacturing, Six Sigma, Metodologias de Solução de Problemas, BI e etc. para otimizar processos e suportar as decisões baseadas em fatos e dados.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Após anos atuando nas áreas de negócio, sua "paixão pelos dados" o levou a buscar redirecionar sua carreira para a Área de Dados (BI e Data Science). Assim, aliando-se a
+experiência e resiliência de um veterano com a motivação e entusiasmo de um novato para maximizar resultados!
+
 
 **Background in:** VBA, Excel, Minitab, Python, Power BI, SQL
 
