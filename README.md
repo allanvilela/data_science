@@ -24,8 +24,8 @@ experiência e resiliência de um veterano com a motivação e entusiasmo de um 
 ## Projetos:
 Projetos em Construção:
 
-* **Classificação de Perfil de Investidor a partir da aplicação do algoritmo KNN: **
-* **Escrita em Libras a partir de visão Computacional: **
+* **Classificação de Perfil de Investidor a partir da aplicação do algoritmo KNN:**
+* **Escrita em Libras a partir de visão Computacional:**
 
 
 ---
